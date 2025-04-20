@@ -4,6 +4,7 @@ body {
   margin: 0;
   overflow: hidden;
   cursor: none;
+  background: linear-gradient(90deg, #ff0000, #ff7f00, #89895e, #ffffff, #add8e6, #616188);
 }
 
 canvas {
@@ -11,7 +12,7 @@ canvas {
 }
 
 h2 {
-    z-index: 1000000;
+  z-index: 1000000;
   font-family: "Doto", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
@@ -21,4 +22,5 @@ h2 {
   font-size: 2rem;
   top: 20px;
   left: 20px;
+  color: white;
 }
