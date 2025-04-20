@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap");
+
+body {
+  margin: 0;
+  overflow: hidden;
+  cursor: none;
+}
+
+canvas {
+  display: block;
+}
+
+h2 {
+    z-index: 1000000;
+  font-family: "Doto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings: "ROND" 0;
+  position: absolute;
+  font-size: 2rem;
+  top: 20px;
+  left: 20px;
+}
